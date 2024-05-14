@@ -8,7 +8,7 @@ import ru.yandex.practicum.contacts.model.ContactType;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-public class MainUiState {
+class MainUiState {
 
     public boolean searchVisibility = false;
     public boolean resetSearchButtonVisibility = false;
